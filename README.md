@@ -1,0 +1,1 @@
+# rint-Repeated-Character-Pattern
